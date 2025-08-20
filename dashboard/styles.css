@@ -1,0 +1,19 @@
+
+  .full-size-table {
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+  }
+
+  .full-size-table .data-grid {
+    height: 100%;
+    width: 100%;
+  }
+
+  .full-size-table .data-grid .row {
+    height: 40px;
+  }
+
+  .full-size-table .data-grid .cell {
+    font-size: 16px;
+  }
